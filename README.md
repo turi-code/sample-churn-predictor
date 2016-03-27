@@ -1,5 +1,3 @@
-![Image of Dato dog logo](https://dato.com/images/dato_logo_124px.png)
-
 # Churn Predictor Sample Project
 
 > This is a Dato sample for churn prediction. Explore the [gallery](https://dato.com/learn/gallery/) to see other examples.  

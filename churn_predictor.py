@@ -43,7 +43,8 @@ model = gl.churn_predictor.create(train, user_id='CustomerID',
 ### Explore the Model ###
 
 # Interactively explore churn predictions
-view = model.views.overview(exploration_set=timeseries,
-                            validation_set=valid,
-                            time_boundary=churn_boundary_oct)
+view = model.views.overview(exploration_set = timeseries,
+                            validation_set = valid,
+                            exploration_time = churn_boundary_oct, 
+                            validation_time = churn_boundary_oct)
 view.show()

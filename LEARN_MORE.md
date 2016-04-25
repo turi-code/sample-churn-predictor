@@ -16,20 +16,13 @@ Load Data -> Prepare Data -> Train Model -> Explore Model
 
 This sample uses a table of product purchase data (541909 product purchases):
 
-+-----------+-----------+--------------------------------+----------+--------------+-----------+------------+----------------+
 | InvoiceNo | StockCode |          Description           | Quantity | InvoiceDate  | UnitPrice | CustomerID |    Country     |
-+-----------+-----------+--------------------------------+----------+--------------+-----------+------------+----------------+
+| --------- | --------- | ------------------------------ | -------- | ------------ | --------- | ---------- | -------------- |
 |   536365  |   85123A  | WHITE HANGING HEART T-LIGH...  |    6     | 12/1/10 8:26 |    2.55   |   17850    | United Kingdom |
 |   536365  |   71053   |      WHITE METAL LANTERN       |    6     | 12/1/10 8:26 |    3.39   |   17850    | United Kingdom |
 |   536365  |   84406B  | CREAM CUPID HEARTS COAT HANGER |    8     | 12/1/10 8:26 |    2.75   |   17850    | United Kingdom |
 |   536365  |   84029G  | KNITTED UNION FLAG HOT WAT...  |    6     | 12/1/10 8:26 |    3.39   |   17850    | United Kingdom |
 |   536365  |   84029E  | RED WOOLLY HOTTIE WHITE HEART. |    6     | 12/1/10 8:26 |    3.39   |   17850    | United Kingdom |
-|   536365  |   22752   |  SET 7 BABUSHKA NESTING BOXES  |    2     | 12/1/10 8:26 |    7.65   |   17850    | United Kingdom |
-|   536365  |   21730   | GLASS STAR FROSTED T-LIGHT...  |    6     | 12/1/10 8:26 |    4.25   |   17850    | United Kingdom |
-|   536366  |   22633   |     HAND WARMER UNION JACK     |    6     | 12/1/10 8:28 |    1.85   |   17850    | United Kingdom |
-|   536366  |   22632   |   HAND WARMER RED POLKA DOT    |    6     | 12/1/10 8:28 |    1.85   |   17850    | United Kingdom |
-|   536367  |   84879   | ASSORTED COLOUR BIRD ORNAMENT  |    32    | 12/1/10 8:34 |    1.69   |   13047    | United Kingdom |
-+-----------+-----------+--------------------------------+----------+--------------+-----------+------------+----------------+
 
 
 ### Prepare Data

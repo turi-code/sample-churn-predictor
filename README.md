@@ -27,8 +27,9 @@ customers who are likely to stop using your product or service.
   python download_data.py
   ```
 
-4. Making sure you are working in a Python environment with GraphLab Create installed,
-   run the `churn_predictor.py` script to build and explore the model on your machine:
+4. Make sure you are working in a Python environment with GraphLab Create installed 
+   (e.g. if you installed GraphLab Create using the Dato Launcher, you can use the Launcher to open a GraphLab Create Terminal).
+   Then, run the `churn_predictor.py` script to build and explore the model on your machine:
 
    ```bash
    python -i churn_predictor.py
@@ -37,15 +38,14 @@ customers who are likely to stop using your product or service.
    The `-i` flag causes Python to drop into an interactive interpreter
    after the script executes.
 
-   Once the model has been created, a browser window should open
-   to let you explore and interact with your model.
-
    Alternatively, you can also run the provided IPython Notebook:
 
    ```bash
    ipython notebook churn_predictor.ipynb
    ```
 
+   Once the model has been created, a browser window should open
+   to let you explore and interact with your model.
 
 ## Troubleshooting
 

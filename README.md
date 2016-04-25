@@ -47,16 +47,16 @@ customers who are likely to stop using your product or service.
    Once the model has been created, a browser window should open
    to let you explore and interact with your model.
 
- ## Learn More and Next Steps
+## Learn More and Next Steps
 
- Once you have the sample project running, you can try the following:
+Once you have the sample project running, you can try the following:
 
-   - [Learn more about how the sample works](./LEARN_MORE.md#how-it-works)
-   - [Try it on your own data set](./LEARN_MORE.md#use-your-own-data)
+  - [Learn more about how the sample works](./LEARN_MORE.md#how-it-works)
+  - [Try it on your own data set](./LEARN_MORE.md#use-your-own-data)
 
- To find out more about building churn prediction models, check out the
- [user guide](https://dato.com/learn/userguide/churn_prediction/quick-start.html)
- or [API documentation](https://dato.com/products/create/docs/graphlab.toolkits.churn_predictor.html).
+To find out more about building churn prediction models, check out the
+[user guide](https://dato.com/learn/userguide/churn_prediction/quick-start.html)
+or [API documentation](https://dato.com/products/create/docs/graphlab.toolkits.churn_predictor.html).
 
 
 ## Troubleshooting

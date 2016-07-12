@@ -32,4 +32,4 @@ def unzip(file, target_dir):
 
 if __name__ == '__main__':
 
-	download("https://s3.amazonaws.com/dato-datasets/churn-prediction/online_retail.csv", path.join('./dataset/online_retail.csv'))
+	download("https://static.turi.com/datasets/churn-prediction/online_retail.csv", path.join('./dataset/online_retail.csv'))
